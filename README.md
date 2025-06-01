@@ -2,21 +2,21 @@
 
 ![Estatísticas do 1Lucas-Matheussm GitHub](https://github-readme-stats.vercel.app/api?username=LucasMatheus&show_icons=true&theme=github_dark_dimmed)
 
-## Tecnologias que eu uso
+# Tecnologias que eu uso
 
 <div estilo="exibição: flex">
   
-# Desenvolvedor Móvel 📱
+## Desenvolvedor Móvel 📱
   <div estilo="exibição: inline_block">
     <img src="https://img.shields.io/badge/FlutterFlow-7B61FF?style=for-the-badge&logo=flutter&logoColor=white">
   </div>
   
-# Jogos Desenvolvedor 👾
+## Jogos Desenvolvedor 👾
   <div estilo="exibição: inline_block">
     <img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white">
   </div>
   
-# Desenvolvedor Web 🌐
+## Desenvolvedor Web 🌐
   <div estilo="exibição: inline_block"> 
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   </div>
